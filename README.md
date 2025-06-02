@@ -1,1 +1,2 @@
-# first-task1
+cleaned and preprossed he data
+performed eda
