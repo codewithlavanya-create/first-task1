@@ -1,2 +1,2 @@
-cleaned and preprossed he data
+cleaned and preprossed the data
 performed eda
